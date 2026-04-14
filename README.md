@@ -39,8 +39,16 @@
     alt="Java" 
   />
   <img 
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
+    src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" 
     alt="MySQL" 
+  />
+  <img 
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
+    alt="Pandas" 
+  />
+  <img 
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
+    alt="Python" 
   />
   <img 
     src="https://img.shields.io/badge/Odoo-4B0082?style=for-the-badge&logo=odoo&logoColor=white" 

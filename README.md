@@ -73,7 +73,7 @@
 
 <p align="left">
   <img 
-    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
+    src="https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge" 
     alt="English" 
   />
   <img 
@@ -103,5 +103,5 @@
 
 
 ------
-**Créditos:** [tuusuario](https://github.com/tuusuario)  
-**Última edición:** 29/10/2023
+**Créditos:** [GuillermoGonzaloVeyroRamos](https://github.com/GuillermoGonzaloVeyroRamos)  
+**Última edición:** 14/04/2026

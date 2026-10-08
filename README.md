@@ -9,14 +9,14 @@
 
 <h1 align="left">Hi! I'm <code>&lt;/Guillermo&gt;</code></h1>
 
-### Sobre mí
-Soy un **Ingeniero de Software** apasionado por el puente entre el código y los datos. Con un año de experiencia en el sector, me enfoco en construir aplicaciones web interactivas con **React** y **Vue**, asegurando siempre que la información sea el centro de la experiencia. 
+### About Me
+I am a **Software Engineer** passionate about bridging code and data. With one year of industry experience, I focus on building interactive web applications using **React** and **Vue**, ensuring data remains at the core of the user experience.
 
-Mi formación me permite no solo desarrollar la interfaz, sino analizar el flujo de datos detrás de ella usando **Python** y **SQL** para convertir números en decisiones estratégicas. Busco constantemente retos que me permitan fusionar el diseño funcional con la precisión estadística.
+My background allows me not only to develop user interfaces, but also to analyze the data flows behind them using **Python** and **SQL** to turn raw numbers into strategic decisions. I am constantly looking for challenges that allow me to merge functional design with statistical precision.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 <p align="left">
   <strong>Development:</strong><br>
@@ -37,7 +37,7 @@ Mi formación me permite no solo desarrollar la interfaz, sino analizar el flujo
 
 ---
 
-### 💼 Herramientas y Skills
+### 💼 Tools & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -47,7 +47,7 @@ Mi formación me permite no solo desarrollar la interfaz, sino analizar el flujo
 
 ---
 
-### 🌍 Idiomas
+### 🌍 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge" alt="English" />
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish" />
@@ -55,12 +55,12 @@ Mi formación me permite no solo desarrollar la interfaz, sino analizar el flujo
 
 ---
 
-### 💌 Datos de contacto
-¡Hablemos! Puedes contactarme a través de cualquiera de estos canales:
+### 💌 Contact Information
+Let's talk! Feel free to reach out to me through any of these channels:
 
-* 📧 **Correo:** [memoveyrojr@hotmail.com](mailto:memoveyrojr@hotmail.com)
-* 📱 **Teléfono:** 4771515109
-* 🔗 **LinkedIn:** [Guillermo Gonzalo Veyro Ramos](https://www.linkedin.com/in/guillermo-gonzalo-veyro-ramos-90816175/)
+- 📧 **Email:** [memoveyrojr@hotmail.com](mailto:memoveyrojr@hotmail.com)
+- 📱 **Phone:** +52 477 151 5109
+- 🔗 **LinkedIn:** [Guillermo Gonzalo Veyro Ramos](https://www.linkedin.com/in/guillermo-gonzalo-veyro-ramos-90816175/)
 
 <p align="left">
   <a href="mailto:memoveyrojr@hotmail.com">
@@ -73,4 +73,4 @@ Mi formación me permite no solo desarrollar la interfaz, sino analizar el flujo
 
 <br />
 
-**Última edición:** 14/04/2026
+**Last updated:** 08/10/2026
